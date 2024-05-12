@@ -1,10 +1,9 @@
-﻿using System;
-using Unity.AI.Navigation;
+﻿using Unity.AI.Navigation;
 using UnityEngine;
 
-namespace _Scripts
+namespace _Scripts.NavMeshPart
 {
-    public class GameManager : MonoBehaviour
+    public class NavMeshController : MonoBehaviour
     {
         private NavMeshSurface _navMeshSurface;
 

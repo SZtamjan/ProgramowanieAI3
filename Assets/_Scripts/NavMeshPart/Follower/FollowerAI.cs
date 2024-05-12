@@ -1,10 +1,8 @@
-﻿using System;
-using _Scripts.Influencer;
+﻿using _Scripts.NavMeshPart.Influencer;
 using UnityEngine;
 using UnityEngine.AI;
-using UnityEngine.Serialization;
 
-namespace _Scripts.Follower
+namespace _Scripts.NavMeshPart.Follower
 {
     public class FollowerAI : MonoBehaviour
     {

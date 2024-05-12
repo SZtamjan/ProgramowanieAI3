@@ -1,7 +1,6 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace _Scripts.Influencer
+namespace _Scripts.NavMeshPart.Influencer
 {
     public class InfluencerAI : MonoBehaviour
     {
